@@ -14,7 +14,7 @@ TELEGRAM_USERNAME = os.getenv("TELEGRAM_USERNAME")
 
 welcome_msg = '''<b>Welcome To the Bot</b>🖐🖐
  <i>Send me anyones instagram username to get their DP</i>
- ex : <b>virat.kohli</b> , <b>thenameisyash</b> etc
+ ex : <b>virat.kohli</b>,<b>_yarra.s.s_</b>, <b>thenameisyash</b> etc
 Join @yssprojects'''
 
 logging.basicConfig(
